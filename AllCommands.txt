@@ -77,8 +77,3 @@ git push -u origin main
 
 
 
-A-R-M-028
-
-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
-
-chmod777
