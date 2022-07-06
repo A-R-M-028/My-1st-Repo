@@ -1,0 +1,84 @@
+linux commands:
+1st in home directory pwd
+SPACE= \ (ALWAYS)
+$ REGULAR USER
+# ROOT USER sudo -i
+/ ABSULUTE PATH OR ROOT
+MANUAL= man, HELP= --help
+pwd PRESENT WORKING DIRECTORY,HOME OR ABSULATE PATH
+cd TO CHANGE THE DIRECTORY (CASE SENSETIVE) IF SPACE PUT \
+cd .. BACK TO PRE DIRECTORY
+ls PRESENT DIRECTORY FILES
+ls -la 
+mkdir FOR CREATE DIRECTORY
+rmdir FOR DILETE EMPTY DIRECTORY
+rm FOR DELETE WHOLE DIRECTORY
+touch FOR CREATE FILE WITH EXTENTION OR BLANK FILE
+cp COPY FILE 2 OPERANDS REQUIRED
+mv MOVE FILE LIKE cp & USE AS RENAME
+locate OR find TO LOCATE THE FILE
+echo  TO TEXT INTO FILE
+cat DISPLAY THE CONTENT OF FILE 1. CREATE NEW FILE, 2. ADD 1 & 2 FILE IN 3 FILE 3. UPPER & LOWER CASE //HOSTINGER.IN E.G
+sudo OR su SUPER USER DO FOR ROOT PRIVILEGES E.G sudo bash
+df DISK SPACE
+du DISK USAGE 
+tar FOR TARBALLS OR COMPRESSION OR ARCHIVES
+apt-getFOR INSTALL PACKAGES, REQUIRED ROOT PRIVILEGES E.G sudo apt-get update or upgrade
+chmod MAKE EXECUTABLE FILE OR RUN E.G chmod +x numbers.py HERE NUMBERS.PY IS EXE FILE
+chown TRANSFER OWNERSHIP OF FILE
+ping CONNECTION TO A SERVER OR LATENCY
+head & tail SHOWS 1ST LINE & LAST LINE
+diff DIFFERENCE BET 2 LINES
+job CURRENT JOBS
+kill TERMINATE PROGRAM
+wgwet FOR DOWNLOAD FROM INTERNET E.G wget URL
+top LIKE WINDOWS TASK MANAGER
+history
+useradd & userdel MULTI USER
+passwd CHANGE PASSWORD
+hostname, zip, unzip, man, hiostory, uname, reboot, exit
+
+
+
+
+
+Git Commands
+
+
+
+
+apt-get install git
+git clone ""URL""
+git --version
+git status
+git diff ""FILE NAME""DIFFERENCE
+git log or git lg //CHANGES
+git checkout ""URL FROM git log"" //UNDO
+.gitconfig
+"git rm --cached <file>..." to unstage
+
+***…or create a new repository on the command line
+echo "# My-1st-Repo" >> README.md
+git init
+git add README.md OR git add --all//STAGING
+git commit -m "first commit" //COMMITING
+git branch -M main
+git remote add origin git@github.com:A-R-M-028/My-1st-Repo.git
+git push -u origin main //PUSHING TO GITHUB MASTER-DEFAULT REPO IN FRONT
+
+
+***…or push an existing repository from the command line
+git remote add origin git@github.com:A-R-M-028/My-1st-Repo.git
+git branch -M main
+git push -u origin main
+
+
+
+
+
+
+A-R-M-028
+
+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
+
+chmod777
